@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/kartikag01">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikag01&count_private=true" />
 </a>
-<a href="https://github.com/tarunama">
+<a href="https://github.com/kartikag01">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikag01&layout=compact" />
 </a>
