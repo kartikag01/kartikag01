@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello from India 👋
+
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/kartikag01)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikag01/)
+[![Email](https://img.shields.io/badge/Email-blue.svg?style=for-the-badge&logo=email)](mailto:kartikagarwal01@gmail.com)
 
 Writer ✍️ ( I writers #ReactJS 💻 Frontend Consultant Ex @Practo) 
 Organiser and speaker @reactdelhincr
@@ -31,8 +35,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/kartikag01">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikag01&count_private=true" />
-</a>
-<a href="https://github.com/kartikag01">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikag01&layout=compact" />
 </a>
+<a href="https://github.com/kartikag01">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikag01&count_private=true" />
+</a>
+
